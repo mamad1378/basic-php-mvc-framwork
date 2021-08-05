@@ -1,0 +1,16 @@
+{
+    "name": "mamadzirone/php-mvc",
+    "description": "m.j.malmaling52@gmail.com",
+    "authors": [
+        {
+            "name": "mohammad jamshidian",
+            "email": "m.j.malmaling52@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
